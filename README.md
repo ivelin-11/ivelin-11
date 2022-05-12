@@ -3,7 +3,7 @@
   <h3> 👨🏻‍💻 &nbsp;About Me </h3>
   
   - 🎓Studying **Informatics** at New Bulgarian University
-  - 🔭 I have taken some courses at Software University (SoftUni)
+  - 🔭 I have taken some courses at Software University (SoftUni) <a href="https://github.com/ivelin-11/SoftUni">📚<a/>(Click books for courses info)
   - 🥅 2022 Goals: More coding practice.
   - 🤔 I am willing to collaborate as a team player building better code.
   - :mailbox: You can reach me with the links below
@@ -25,6 +25,8 @@
 
 ### 🏆 Github Stats:
 ![Ivelin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivelin-11&count_private=true)
+
+
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivelin-11&langs_count=8)](https://github.com/ivelin-11)
 
