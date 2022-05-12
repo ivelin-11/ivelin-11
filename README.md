@@ -34,7 +34,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivelin-11&count_private=true&theme=buefy&layout=compact" />
 </a></br>
 -->
-### Fun fact: I once solved the world's oldest question with a single line of Java
+### 🔍Fun fact: I once solved the world's oldest question with a single line of Java
 <!-- wi*quL3fcV -->
 
 ```java
