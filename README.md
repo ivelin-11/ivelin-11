@@ -8,7 +8,7 @@
   - 🤔 I am willing to collaborate as a team player building better code.
   - :mailbox: You can reach me with the links below
   
-[![Microsoft_outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)]((mailto:ivelin.dzh@outlook.com))
+[![Microsoft_outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)]((mailto:ivelin.dzh@outlook.com))<a href="mailto:ivelin.dzh@outlook.com">📧</a>
 
 ### Languages I use </br>
 ![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=Java&logoColor=007396)
