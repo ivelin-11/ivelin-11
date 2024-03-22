@@ -5,7 +5,7 @@
   - 🎓Studying **Informatics** at New Bulgarian University
   - 🔭 I have taken some courses at Software University (SoftUni) <a href="https://github.com/ivelin-11/SoftUni">📚<a/>(Click books for courses info)
   - :computer:  My online basic  Notes App - <a href="https://github.com/ivelin-11/notes-app">:bookmark_tabs:<a/>(Click notes for app info)
-  - 🥅 2022 Goals: More coding practice.
+  - 🥅 2024 Goals: Become Senior Salesforce Developer.
   - 🤔 I am willing to collaborate as a team player building better code.
   - :mailbox: You can reach me with the links below
   
