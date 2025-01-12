@@ -16,9 +16,9 @@ Hi there! I'm a Salesforce & Java developer dedicated to continuous learning and
 - **Basic Notes App**
   - I developed an online basic Notes App to efficiently manage and organize notes. 🗒️ [Click here for more information about the app](#)
 
-### 🎯 Goals for 2024
+### 🎯 Goals for 2025
 - **Become a Senior Salesforce Developer**
-  - My primary goal for 2024 is to elevate my career and become a Senior Salesforce Developer. 🚀
+  - My primary goal for 2025 is to elevate my career and become a Senior Salesforce Developer. 🚀
 
 ### 🤝 Collaboration
 - **Team Player**
