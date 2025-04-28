@@ -11,6 +11,8 @@ Hi there! I'm a Salesforce & Java developer dedicated to continuous learning and
   
 - **Platform Developer 1 Salesforce Certificate**
   - I am a certified Platform Developer 1 on Salesforce, solidifying my expertise in Salesforce development. 🏆
+- **Javascript Developer 1 Certificate**
+  - I am a certified Javascript Developer 1, having strong expertise in LWC & JS development. 📈
 
 ### 💻 Projects
 - **Basic Notes App**
